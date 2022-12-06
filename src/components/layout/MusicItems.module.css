@@ -1,0 +1,36 @@
+.main {
+  text-align: center;
+}
+.items {
+  height: 250px;
+  width: 250px;
+  padding-left: 20rem;
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+}
+.title {
+  padding-left: 300px;
+  margin-top: 5rem;
+  font-weight: bold;
+}
+.button {
+  background-color: lightskyblue;
+  color: white;
+  font-weight: bold;
+  border-color: lightskyblue;
+  margin-left: 120px;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+.price {
+  font-weight: bold;
+  color: black;
+  padding-left: 300px;
+  font-size: 20px;
+}
+.display {
+  display: flex;
+  flex-wrap: wrap;
+}

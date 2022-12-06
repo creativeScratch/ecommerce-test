@@ -1,0 +1,24 @@
+.about {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.heading {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  font-style: normal;
+}
+.image {
+  height: 250px;
+  width: 250px;
+  border-radius: 150px;
+  margin-top: 20px;
+}
+.para {
+  padding-left: 50px;
+  margin-bottom: 100px;
+}
+.paraimage {
+  display: flex;
+}

@@ -1,0 +1,95 @@
+.heading {
+  text-align: center;
+  font-size: 30px;
+}
+.delbutton {
+  border-radius: 5px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 30px;
+  width: 25px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.secitem {
+  text-align: center;
+  margin-left: 10px;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+  text-underline-offset: 0.5em;
+}
+.secprice {
+  padding-left: 100px;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+  text-underline-offset: 0.5em;
+}
+.secquantity {
+  padding-left: 70px;
+  font-weight: bold;
+  color: black;
+  font-size: 20px;
+  text-decoration: underline;
+  text-underline-offset: 0.5rem;
+}
+.image {
+  height: 70px;
+  width: 70px;
+  margin-top: 1rem;
+  border-radius: 10px;
+}
+.title {
+  font-weight: bold;
+}
+.price {
+  padding-left: 100px;
+}
+.quantity {
+  margin-left: 50px;
+  position: absolute;
+  left: 250px;
+  width: 25px;
+}
+.purbutton {
+  margin-top: 20px;
+  text-align: center;
+  background-color: lightskyblue;
+  font-weight: bold;
+  color: white;
+  border-color: lightskyblue;
+  margin-left: 35%;
+  height: 50px;
+  width: 150px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.rembutton {
+  background-color: rgb(135, 14, 14);
+  font-weight: bold;
+  color: white;
+  border-color: rgb(135, 14, 14);
+  font-size: 15px;
+  border-radius: 5px;
+  margin-left: 20px;
+  position: absolute;
+  left: 350px;
+}
+.total {
+  margin-left: 60%;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+}
+.main {
+  width: auto;
+  height: 50%;
+}
+.cart {
+  max-height: 500px;
+  overflow: auto;
+}

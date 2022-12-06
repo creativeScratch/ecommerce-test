@@ -1,0 +1,26 @@
+.form {
+  margin: 1rem 30rem;
+}
+
+.form label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+
+.form input {
+  width: 70%;
+  height: 25px;
+}
+
+.button {
+  margin: 1rem 30rem;
+  border-radius: 10px;
+  background-color: blue;
+  font-size: 20px;
+  color: white;
+  height: 40px;
+  width: 100px;
+  border-color: blue;
+}

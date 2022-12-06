@@ -1,0 +1,18 @@
+.button {
+  color: white;
+  background-color: black;
+  border-color: lightskyblue;
+  border-radius: 5px;
+  margin-left: 10rem;
+  position: absolute;
+  top: 10px;
+  right: 50px;
+  height: 30px;
+  width: 50px;
+}
+.number {
+  color: lightblue;
+  top: 3px;
+  right: 40px;
+  position: absolute;
+}
